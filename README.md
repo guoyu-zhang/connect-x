@@ -19,4 +19,8 @@ java ConnectFour.java
 ```
 ## Screenshots
 
+
+![Main Menu](/screenshots/mainMenu.png?raw=true "Main Menu")
+![Fresh Game](/screenshots/freshGame.png?raw=true "Fresh Game")
+![Ingame Menu](/screenshots/ingameMenu.png?raw=true "Ingame Menu")
 ![End of Game](/screenshots/endOfGame.png?raw=true "End of Game")
